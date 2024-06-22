@@ -57,7 +57,6 @@ Data Analytics and Visualisation │  Machine Learning │ Artificial Intelligen
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-![Karin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karincheong&hide=contribs,prs,stars,issues)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -82,15 +81,3 @@ Data Analytics and Visualisation │  Machine Learning │ Artificial Intelligen
 
 </details>
 
-
-## Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about : Gaming, Cooking, Data Science and AI 
-- 📫 How to reach me: 
-- 😄 Pronouns: She
-- ⚡ Fun fact: ...
--->
