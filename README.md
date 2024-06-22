@@ -64,10 +64,13 @@ Data Analytics and Visualisation │  Machine Learning │ Artificial Intelligen
   
 <!--START_SECTION:activity-->
 1. 💪 [Python] Call-For-Help-American-Sign-Language-Recognition-Using-Deep-Learning-Model (https://github.com/Karincheong/Python-Call-For-Help-American-Sign-Language-Recognition-Using-Deep-Learning-Model) 
-2. 🛍️ Python-Zalando-Product-Matching-Challenge (https://github.com/Karincheong/Python-Zalando-Product-Matching-Challenge)
-3. ⚕️ Python-Forecasting-In-Patient-Day-Case-Waiting-Times-in-Ireland-2014-to-2021 (https://github.com/Karincheong/Python-Forecasting-In-Patient-Day-Case-Waiting-Times-in-Ireland-2014-to-2021)
-4. ❗ Opened issue [#1235](https://github.com/shadcn-ui/ui/issues/1235) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+2. 🛍️ [Python] Zalando-Product-Matching-Challenge (https://github.com/Karincheong/Python-Zalando-Product-Matching-Challenge)
+3. ⚕️ [Python] Forecasting-In-Patient-Day-Case-Waiting-Times-in-Ireland-2014-to-2021 (https://github.com/Karincheong/Python-Forecasting-In-Patient-Day-Case-Waiting-Times-in-Ireland-2014-to-2021)
+4. 🎉 [R, SPSS, Tableau] WAIDatathon2021-Is-education-level-a-factor-in-domestic-violence-statistics(https://github.com/Karincheong/Datathon2021-Is-education-level-a-factor-in-domestic-violence-statistics-)
+5. 🎵 [R] January-2021-WaiLEARN-Analysis-Spotify-Dataset (https://github.com/Karincheong/R-January-2021-WaiLEARN-Analysis-Spotify-Dataset)
+6. 🎉 [R] August-2020-WaiLEARN-Female-Employment-Analysis (https://github.com/Karincheong/R-August-2020-WaiLEARN-Female-Employment-Analysis)
+7. 🗄️ [SQL] Krie-CreateDatabase-Retrieve-Trigger-data management (https://github.com/Karincheong/SQL-Krie-CreateDatabase-Retrieve-Trigger-DataManagement)
+8. 📺 [R] Twitter-Scraping-and-Sentiment-Analysis-Hashtag-Trump- (https://github.com/Karincheong/R-Twitter-Scraping-and-Sentiment-Analysis-Hashtag-Trump-)
 <!--END_SECTION:activity-->
 
 </details>
@@ -76,7 +79,7 @@ Data Analytics and Visualisation │  Machine Learning │ Artificial Intelligen
   <summary>:zap: GitHub Stats</summary>
 
 
-  Python-Call-For-Help-American-Sign-Language-Recognition-Using-Deep-Learning-Model
+
 
 
 ## Hi there 👋
