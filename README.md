@@ -59,6 +59,8 @@ Data Analytics and Visualisation │  Machine Learning │ Artificial Intelligen
 
 [![Karin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karincheong)](https://github.com/anuraghazra/github-readme-stats)
 
+![Karin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karincheong&hide=contribs,prs)
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
