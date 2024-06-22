@@ -57,6 +57,7 @@ Data Analytics and Visualisation │  Machine Learning │ Artificial Intelligen
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
+[![Karin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karincheong)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hi there 👋
 
