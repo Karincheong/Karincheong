@@ -9,7 +9,8 @@ Data Analytics and Visualisation │  Machine Learning │ Artificial Intelligen
 
 ## Contact Me
 ![Static Badge](https://img.shields.io/badge/haoiocheong-lightgrey?style=for-the-badge&logo=linkedin&label=Linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhaoiocheong%2F)
-![Static Badge](https://img.shields.io/badge/haoiocheong-white?style=for-the-badge&logo=email&label=email&labelColor=pink&link=karin.cheong%40outlook.com)
+![Static Badge](https://img.shields.io/badge/Karin.Cheong%40outlook.com-lightpink?style=for-the-badge&label=Email&labelColor=purple)
+
 
 
 
