@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Blue Cute Playful Birthday Party Kids Banner](https://github.com/Karincheong/PersonalBadges-/assets/68969621/e8d44fad-a686-46ef-b2b4-f6090f06dfe6)
+![Blue Cute Playful Birthday Party Kids Banner](https://github.com/Karincheong/Karincheong/assets/68969621/e81ae8bc-d26a-4ab9-9d29-daab23e43ac5)
 
 ##  Specialised on 🛠️
 
