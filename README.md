@@ -76,10 +76,11 @@ Data Analytics and Visualisation │  Machine Learning │ Artificial Intelligen
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Recent Blog Post</summary>
+<!--START_SECTION:activity-->
+1. 🎞️ An Exploratory Analysis of Female Employment in Industries Worldwide (https://women-in-ai-ireland.github.io/August-2020-WaiLEARN-Female-Employment-Analysis/) 
 
-
-
+</details>
 
 
 ## Hi there 👋
