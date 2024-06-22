@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Blue Cute Playful Birthday Party Kids Banner](https://github.com/Karincheong/Karincheong/assets/68969621/e81ae8bc-d26a-4ab9-9d29-daab23e43ac5)
 
 ##  Specialised on 🛠️
